@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="welcome_screen_color">#000000</color>
+    <color name="status_bar_color">#000000</color>
+    <color name="title_color_onBoarding_page">#FFDBDBDB</color>
+    <color name="description_color_onBoarding_page">#7E7E7E</color>
+
+    <color name="onBoarding_indicator_active_Color">#FF3700B3</color>
+    <color name="onBoarding_indicator_inactive_Color">#7E7E7E</color>
+    <color name="onBoarding_button_color">#FF3700B3</color>
+
+    <color name="home_top_app_bar_content_color">#7E7E7E</color>
+    <color name="home_top_app_bar_background_color">#000000</color>
+
+    <color name="star_color">#FFFFC94D</color>
+
+</resources>

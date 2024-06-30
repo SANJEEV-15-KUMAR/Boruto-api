@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="welcome_screen_color">#FFFFFFFF</color>
+    <color name="status_bar_color">#FF3700B3</color>
+    <color name="title_color_onBoarding_page">#FF242424</color>
+    <color name="description_color_onBoarding_page">#474747</color>
+
+    <color name="onBoarding_indicator_active_Color">#FF6200EE</color>
+    <color name="onBoarding_indicator_inactive_Color">#868686</color>
+    <color name="onBoarding_button_color">#FF6200EE</color>
+
+    <color name="home_top_app_bar_content_color">#FFFFFF</color>
+    <color name="home_top_app_bar_background_color">#FF6200EE</color>
+
+    <color name="star_color">#FFFFC94D</color>
+
+
+
+</resources>
